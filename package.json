@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-egrand-scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simple",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-order": "^4.1.0",
+    "stylelint-scss": "^3.18.0"
+  },
+  "devDependencies": {
+    "stylelint": "^13.9.0"
+  }
+}
