@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-egrand-scss",
+  "name": "stylelint-config-egrand-scss",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Simple",
@@ -7,6 +7,14 @@
   "files": [
     "index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyuweixin/stylelint-config-egrand-scss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wuyuweixin/stylelint-config-egrand-scss/issues"
+  },
+  "homepage": "https://github.com/wuyuweixin/stylelint-config-egrand-scss#readme",
   "dependencies": {
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-rational-order": "^0.1.2",
