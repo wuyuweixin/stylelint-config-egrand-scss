@@ -78,6 +78,8 @@ module.exports = {
           "id"
         ]
       }
-    ]
+    ],
+    "declaration-block-semicolon-space-before": "never",
+    "declaration-block-semicolon-space-after": "always-single-line"
   }
 }
